@@ -1,5 +1,5 @@
 Name: Farayha Zaheer Alam
-ID: 31164943
+
 SQL> 
 SQL> DROP TABLE assessment CASCADE CONSTRAINTS;
 
