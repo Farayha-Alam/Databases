@@ -3,7 +3,6 @@
 --   site:      Oracle Database 11g
 --   type:      Oracle Database 11g
 --  Name: Farayha Zaheer Alam
--- ID: 31164943
 set echo on
 SPOOL mm_schema_output.txt
 
