@@ -19,6 +19,6 @@ To use SQL commands on the provided database to generate the necessary output.
 ## Skill Acquired:
 Data Analysis, Problem Solving, Attention to detail, etc.
 # NOTE:
-The project in this folder were made possible through the support and resources provided by Monash University Malaysia.
+The projects in this folder were made possible through the support and resources provided by Monash University Malaysia.
 
 
