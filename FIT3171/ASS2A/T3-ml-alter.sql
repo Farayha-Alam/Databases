@@ -2,7 +2,6 @@
 --T3-ml-alter.sql
 
 --Student ID: Farayha Zaheer Alam
---Student Name: 31164943
 --Tutorial No: 03
 
 /* Comments for your marker:
